@@ -1,0 +1,39 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Apple Frangipan Tart",
+      "image": "http://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apple Frangipan Tart",
+      "image": "http://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apam balik",
+      "image": "http://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ayam Percik",
+      "image": "http://www.themealdb.com/images/media/meals/020z181619788503.jpg"
+    },
+    {
+      "name": "Grilled eggplant with coconut milk",
+      "image": "https://www.themealdb.com/meal/53074-Grilled-eggplant-with-coconut-milk-Recipe",
+      "id": 5
+    },
+    {
+      "name": "Crispy Eggplant",
+      "image": "https://www.themealdb.com/images/media/meals/c7lzrl1683208757.jpg",
+      "id": 6
+    },
+    {
+      "name": "Pork",
+      "image": "https://www.themealdb.com/images/ingredients/Pork.png",
+      "id": 7
+    }
+  ]
+}
